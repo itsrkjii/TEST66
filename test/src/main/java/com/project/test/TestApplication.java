@@ -10,6 +10,7 @@ public class TestApplication {
 		SpringApplication.run(TestApplication.class, args);
 		System.out.println("============>FIRST");
 		System.out.println("============>TWO");
+		System.out.println("===========>THREE");
 	}
 
 }
